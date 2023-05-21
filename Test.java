@@ -4,6 +4,7 @@ class Test.java
 		System.out.println("Hello");
 		System.out.println("hi from VSDev");
 		System.out.println("hi again");
+		System.out.println("changes from exploreGI user");
 
 }
 }
